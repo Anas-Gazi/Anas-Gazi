@@ -4,20 +4,54 @@ Anas-Gazi/Anas-Gazi is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Gazi Md. Anas</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">From Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anas-gazi&label=Profile%20views&color=0e75b6&style=flat" alt="anas-gazi" /> </p>
+<div align="center">
+1st Year CSE Student | Passionate about solving problems and building intelligent systems
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/anisur rahman anas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anisur rahman anas" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gazianas2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gazianas2020" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/gazianab297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/gazianab297" height="30" width="40" /></a>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation"/>
+
+### 🚀 About Me
+- 🔭 Currently mastering **Data Structures & Algorithms** for ICPC prep
+- 🌱 Learning Python for Machine Learning basics
+- 👯 Phitron **Campus Ambassador**
+- ⚡ Fun fact: I love tackling tough implementation problems!
+
+### 🛠️ Tech Stack & Skills
+
+<p>
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="DSA" src="https://img.shields.io/badge/-DSA-000000?style=for-the-badge&logo=algolia&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="HTML/CSS" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anas-gazi&show_icons=true&locale=en&layout=compact" alt="anas-gazi" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=Anas-Gazi&show_icons=true&theme=dark&hide_border=true" alt="Anas's GitHub Stats" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anas-Gazi&theme=dark&hide_border=true" alt="Anas's Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Gazi&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+
+### 🏆 Coding Platforms
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/gazianab297)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/gazianas2020)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/GaziBD/)
+
+### 🎮 My Contribution Game (Dark Mode)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anas-Gazi/Anas-Gazi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anas-Gazi/Anas-Gazi/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid animation" src="https://raw.githubusercontent.com/Anas-Gazi/Anas-Gazi/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+### 🌙 Always in Dark Mode Vibes
+
+Thanks for visiting! Feel free to star my repos ⭐
+
+</div>
 
