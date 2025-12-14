@@ -39,8 +39,6 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Anas-Gazi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anas-Gazi&theme=dark&hide_border=true&background=0d1117" alt="Streak Stats" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Gazi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 
 
@@ -48,6 +46,7 @@ You can click the Preview link to take a look at your changes.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anas-Gazi/Anas-Gazi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anas-Gazi/Anas-Gazi/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid animation" src="https://raw.githubusercontent.com/Anas-Gazi/Anas-Gazi/output/github-contribution-grid-snake-dark.svg" width="800"/>
 </picture>
 
