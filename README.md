@@ -56,6 +56,21 @@ I'm Gazi Md Anas, a 1st-year Computer Science student per
 </p>
 
 ---
+
+### 💻 Competitive Programming
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/gazianas">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="45" title="GeeksforGeeks"/>
+  </a>
+<a href="https://codeforces.com/profile/gazianas2020">
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="45" title="Codeforces"/>
+</a>
+  <a href="https://leetcode.com/u/GaziBD/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45" title="LeetCode"/>
+  </a>
+</p>
+
+---
 ### 🤖 AI Tools
 <p align="center">
  <img src="https://img.shields.io/badge/ChatGPT-091519?style=for-the-badge&logo=openai&logoColor=61DAFB" height="28" title="ChatGPT"/>
