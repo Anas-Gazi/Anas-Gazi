@@ -1,14 +1,8 @@
 
-<!---
-Anas-Gazi/Anas-Gazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Gazi Md Anas, a 1st-year Computer Science student.
+
 <div align="center">
-
-# Hi there 👋, I'm Gazi Md. Anas
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation"/>
-
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
 </div>
 
 ### 🚀 About Me
