@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=240&section=header&text=Gazi%20Md%20Anas&fontSize=55&fontColor=61DAFB&animation=twinkling&desc=Passionate%20Developer%20from%20Dhaka&descSize=22" alt="Gazi Md Anas" />
+</p>
 
 I'm Gazi Md Anas, a 1st-year Computer Science student.
 
