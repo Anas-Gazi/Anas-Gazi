@@ -20,7 +20,7 @@ I'm Gazi Md Anas, a 1st-year Computer Science student per
   <a href="https://www.linkedin.com/in/gazianas/">
     <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
   </a>
-  <a href="https://www.instagram.com/gazi.anas10/">
+  <a href="https://www.instagram.com/_gazi_pazi_/">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
   <a href="https://www.facebook.com/anisur.anas10">
