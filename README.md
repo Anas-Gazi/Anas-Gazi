@@ -2,7 +2,7 @@
   <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Gazi%20Md%20Anas&fontColor=61DAFB&fontSize=50&fontAlignY=45&animation=twinkling" />
 </p>
 
-I'm Gazi Md Anas, a 1st-year Computer Science student per 
+I'm Gazi Md Anas, a 2nd-year Computer Science student per 
 
 💡 *“Crafting logic and elegance in every line of code.”*
 
