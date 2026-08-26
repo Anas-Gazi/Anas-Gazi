@@ -59,13 +59,19 @@ I'm Gazi Md Anas, a 2nd-year Computer Science student
 
 ### 💻 Competitive Programming
 <p align="center">
+<a href="https://codeforces.com/profile/gazianas2020">
+    <img src="https://codeforces.com/codeforces.org/s/35488/ms-icon-144x144.png" height="45" title="Codeforces"/>
+</a>
+  <a href="https://www.codechef.com/users/gazianas">
+  <img src="https://cdn.simpleicons.org/codechef/EF8C00" height="45" title="CodeChef"/>
+</a>
   <a href="https://www.geeksforgeeks.org/profile/gazianas">
     <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="45" title="GeeksforGeeks"/>
   </a>
-<a href="https://codeforces.com/profile/gazianas2020">
-    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="45" title="Codeforces"/>
+  <a href="https://atcoder.jp/users/GaziAnas">
+  <img src="https://img.atcoder.jp/assets/atcoder.png" height="45" title="AtCoder"/>
 </a>
-  <a href="https://leetcode.com/u/GaziBD/">
+    <a href="https://leetcode.com/u/GaziBD/">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45" title="LeetCode"/>
   </a>
 </p>
